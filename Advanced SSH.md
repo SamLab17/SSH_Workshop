@@ -28,7 +28,11 @@ iTerm2 allows for a lot more customization and features than the default termina
 
 ## VSCode SSH Plugin
 
-WIP
+If you use VSCode, which I highly recommend, Microsoft provides a very useful plug-in for editing files on a remote machine. It allows you to SSH through VS Code and allows you to edit the files in VS Code as if they were on your local machine.
+
+This may not be as useful during your time in 314, but in 429, you'll need to develop all your projects on the lab machines.
+
+The extension can be found [here](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit), and I would highly recommend you install and try it before you start 429.
 
 ## A Better Shell
 
