@@ -8,7 +8,7 @@
 
 ## SSH Command
 
-Firstly, open your Mac's terminal. You should be at a shell prompt that looks something like this:
+Firstly, open your terminal application of choice. You should be at a shell prompt that looks something like this:
 
 ![Empty Terminal](Images/Terminal0.png)
 

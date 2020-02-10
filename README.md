@@ -1,4 +1,4 @@
-# SSH_Workshop
+# UTCS SSH Guides and Resources
 
 This repo contains Mac-specific resources for making the best use
 of the CS department's lab machines.
