@@ -1,5 +1,7 @@
 # UTCS SSH Guides and Resources
 
+![Readme Splash](Images/cowsay.png)
+
 This repo contains Mac-specific resources for making the best use
 of the CS department's lab machines.
 
