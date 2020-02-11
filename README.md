@@ -7,6 +7,11 @@ Powerpoint: https://docs.google.com/presentation/d/12A8KxLDdaIMkX3212vra0NWU70P9
 This repo contains Mac-specific resources for making the best use
 of the CS department's lab machines.
 
-I have included instructions for how to SSH into a lab machine and suggested applications for transferring files between machines.
+If you missed the workshop and don't know where to get started, go through the various guides in this repo in this order:
 
-I have also included some more advanced resources, like a Python script which will make SSHing even easier, instructions for changing shells, and an SSH VSCode extension.
+1. [How to SSH](SSH.md)
+2. [Linux Basics](Linux%20Basics.md)
+3. [Transferring files with SFTP](SFTP%20Mac%20Apps.md)
+4. [Running Java Programs on the Lab Machines](Java.md)
+5. [Setting up SSH Keys](SSH%20Keys.md)
+6. [More Advanced Topics](Advanced.md)
