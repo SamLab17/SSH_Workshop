@@ -2,6 +2,8 @@
 
 ![Readme Splash](Images/cowsay.png)
 
+Powerpoint: https://docs.google.com/presentation/d/12A8KxLDdaIMkX3212vra0NWU70P9pDDigrwBfW_jpx0/edit?usp=sharing
+
 This repo contains Mac-specific resources for making the best use
 of the CS department's lab machines.
 
