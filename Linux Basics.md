@@ -1,5 +1,13 @@
 # Basic Linux Commands
 
+## An Introduction/Warning
+
+You are about to see a lot of potentially unfamiliar commands below. **Don't worry about memorizing these.**
+
+The only way of getting familiar with these commands is by using them. So if that means you need to look up a Linux cheatsheet everytime or you print out a list of these on your desk, that's perfectly normal.
+
+Many of these commands have strange, unintuitive names which still cause the most experienced Linux users to forget or confuse them.
+
 ## Syntax Used
 
 When a command is shown in a code block, it may be followed by _optional_ or _required_ arguments.
