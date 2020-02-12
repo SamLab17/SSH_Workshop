@@ -6,7 +6,7 @@
 
 ![Cyberduck UI](Images/Cyberduck.png)
 
-Mac specific remote file browsing application.
+Cyberduck allows you to transfer files between your local computer and remote machines. It is available for both Mac and Windows.
 
 Simpler UI than FileZilla and, in my experience, more intuitive to
 use alongside with the Mac's Finder.
@@ -30,6 +30,8 @@ Back in the menu, enter the name of a lab machine followed by `.cs.utexas.edu` (
 ![Menu Filled in](Images/CyberduckMenu.png)
 
 If you are using SSH keys, select your key file from the dropdown. If you used the default key location (like specified in the guide, select `id_rsa`).
+
+You can now drag and drops files between the Cyberduck file viewer and your Mac's Finder.
 
 ## FileZilla
 
