@@ -2,8 +2,6 @@
 
 ![Readme Splash](Images/cowsay.png)
 
-Powerpoint: https://docs.google.com/presentation/d/12A8KxLDdaIMkX3212vra0NWU70P9pDDigrwBfW_jpx0/edit?usp=sharing
-
 This repo contains Mac-specific resources for making the best use
 of the CS department's lab machines.
 
@@ -15,3 +13,6 @@ If you missed the workshop and don't know where to get started, go through the v
 4. [Running Java Programs on the Lab Machines](Java.md)
 5. [Setting up SSH Keys](SSH%20Keys.md)
 6. [More Advanced Topics](Advanced.md)
+
+Workshop Powerpoint: 
+https://docs.google.com/presentation/d/12A8KxLDdaIMkX3212vra0NWU70P9pDDigrwBfW_jpx0/edit?usp=sharing
