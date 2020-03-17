@@ -51,15 +51,13 @@ for host in soup.find_all('tr'):
 
 # See if we updated the default value and found a host
 if len(hosts) > 0:	
+	# Sort the hosts first by # of users, and then by load
 	hosts.sort(key=lambda tup: (tup[1], tup[2]))
-	#print('Best Host Found = ' + currMinHost)
-	#print('Num Users = ' + str(currMinUsers))
 	
-	# Alternative implementation: Opens a new 'Terminal' window with ssh command
-	#appscript.app('Terminal').do_script('ssh slaberge@' + currMinHost + '.cs.utexas.edu')
-
+	# Try to connect this many times
 	NUM_ATTEMPTS = 10
 	for i in range(0, min(len(hosts), NUM_ATTEMPTS)):
+		# Current host to try
 		hostname = hosts[i][0]
 		try:
 			call(['ssh', username + '@' + hostname + '.cs.utexas.edu'])
@@ -69,25 +67,5 @@ if len(hosts) > 0:
 			print(f"Connection to {hostname} failed.")
 			print(f"Trying {hosts[i+1]} instead")
 	sys.exit(-1)	
-	# Run ssh command in this terminal window
-	'''
-	try:
-		call(['ssh', username + '@' + currMinHost + '.cs.utexas.edu'])
-		sys.exit(0);
-	except:
-		for i in range(2, 5):
-			try:
-				print(f"Connection failed. Retrying, attempt {i}")
-				call(['ssh', username + '@' + currMinHost + '.cs.utexas.edu'])
-				sys.exit(0);
-			except:
-				pass
-	try:
-		call(['ssh', username + '@aida.cs.utexas.edu'])
-		sys.exit(0);
-	except:
-		print("All attempts failed, exiting.")
-		sys.exit(-1);
-	'''
 else:
 	print('No suitable host could be found.')
