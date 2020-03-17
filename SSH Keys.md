@@ -3,7 +3,8 @@
 To be able to SSH into the lab machines from off-campus, you have two options: use the UT VPN or set up SSH keys on the lab machines. This page will detail the latter, but if you want to learn more about the UT VPN (which is also pretty important, especially if you want to access library documents), you can do so [here](https://ut.service-now.com/sp?id=ut_bs_service_detail&sys_id=86d65c7c4ff9d200f6897bcd0210c781).
 
 This guide is based on UTCS's guide found [here](https://www.cs.utexas.edu/facilities-documentation/ssh-keys-cs-mac-and-linux).
-To complete this process, you will need to be on campus or using the UT VPN.
+
+**To complete this process, you will need to be on campus or using the UT VPN. [A guide to connecting to the UT VPN can be found here.](UTVPN.md)**
 
 ## Creating a Key
 

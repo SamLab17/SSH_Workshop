@@ -11,8 +11,9 @@ If you missed the workshop and don't know where to get started, go through the v
 2. [Linux Basics](Linux%20Basics.md)
 3. [Transferring files with SFTP](SFTP%20Mac%20Apps.md)
 4. [Running Java Programs on the Lab Machines](Java.md)
-5. [Setting up SSH Keys](SSH%20Keys.md)
-6. [More Advanced Topics](Advanced.md)
+5. [Connecting to the UT VPN](UTVPN.md)
+6. [Setting up SSH Keys](SSH%20Keys.md)
+7. [More Advanced Topics](Advanced.md)
 
 Workshop Powerpoint: 
 https://docs.google.com/presentation/d/12A8KxLDdaIMkX3212vra0NWU70P9pDDigrwBfW_jpx0/edit?usp=sharing
