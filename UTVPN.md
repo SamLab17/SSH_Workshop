@@ -18,6 +18,8 @@ Instead, only use the VPN to set up your SSH keys, and then you will not have to
 
 ## Setting up the VPN
 
+The following steps are the same for both Mac and Windows.
+
 Visit [vpn.utexas.edu](https://vpn.utexas.edu/) and log in using your UT EID.
 
 ![UTexas VPN website](Images/vpnutexas.png)
@@ -26,7 +28,7 @@ It will then ask you to authenticate using DUO. Choose an authentication method 
 
 ![VPN Duo Authentication](Images/vpnduo.png)
 
-If you are on Mac, you will then need to install a piece of software by Cisco which will set up the VPN on your device.
+You will then need to install a piece of software by Cisco which will set up the VPN on your device.
 
 ![Cisco Application download page](Images/ciscoinstall.png)
 
