@@ -4,7 +4,7 @@ To be able to SSH into the lab machines from off-campus, you have two options: u
 
 This guide is based on UTCS's guide found [here](https://www.cs.utexas.edu/facilities-documentation/ssh-keys-cs-mac-and-linux).
 
-**For a Windows guide, see the guide made by UTCS [here](https://www.cs.utexas.edu/facilities-documentation/ssh-keys-cs-windows-10).
+**For a Windows guide, see the guide made by UTCS [here](https://www.cs.utexas.edu/facilities-documentation/ssh-keys-cs-windows-10).**
 
 **To complete this process, you will need to be on campus or using the UT VPN. [A guide to connecting to the UT VPN can be found here.](UTVPN.md)**
 
