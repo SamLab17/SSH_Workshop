@@ -2,8 +2,7 @@
 
 ![Readme Splash](Images/cowsay.png)
 
-This repo contains Mac-specific resources for making the best use
-of the CS department's lab machines.
+This repo contains resources for making the best use of the CS department's lab machines.
 
 If you missed the workshop and don't know where to get started, go through the various guides in this repo in this order:
 
