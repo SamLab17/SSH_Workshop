@@ -10,7 +10,7 @@ If you missed the workshop and don't know where to get started, go through the v
 1. [How to SSH](SSH.md)
 2. [Linux Basics](Linux%20Basics.md)
 3. [SFTP (Mac)](SFTP%20Mac%20Apps.md)
-4. [SFTP (Windows)](SFTP%20Mac%20Apps.md)
+4. [SFTP (Windows)](SFTP%20Windows%20Apps.md)
 5. [Running Java Programs on the Lab Machines](Java.md)
 6. [Connecting to the UT VPN](UTVPN.md)
 7. [Setting up SSH Keys](SSH%20Keys.md)
