@@ -18,7 +18,7 @@ Instead, only use the VPN to set up your SSH keys, and then you will not have to
 
 ## Setting up the VPN
 
-The following steps are the same for both Mac and Windows.
+_The following steps are the same for both Windows, Mac, and Linux._
 
 Visit [vpn.utexas.edu](https://vpn.utexas.edu/) and log in using your UT EID.
 
